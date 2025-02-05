@@ -1,0 +1,15 @@
+PMJ                               IT214     CORE      3          ICT,CS
+YV                                CT216     CORE      3          ICT,CS
+gaurav                            HM116     CORE      3          ICT
+CYRIL                             HM116     CORE      3          CS
+BM                                EL203     CORE      3          ICT
+YA                                EL203     CORE      3          CS
+MS                                SC224     CORE      3          ICT
+MK2                               SC224     CORE      3          CS
+AR                                CS201     CORE      3          CS
+GP                                MC221     CORE      3          MNC
+NKS                               MC222     CORE      3          MNC
+PB                                MC223     CORE      3          MNC
+VS                                MC224     CORE      3          MNC
+SK                                MC225     CORE      3          MNC
+RG                                MC226     CORE      2          MNC

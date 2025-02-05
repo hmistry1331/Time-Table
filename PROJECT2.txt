@@ -1,0 +1,14 @@
+PhD                                                 IT206    CORE       1  common
+RB                                                  HM106    CORE       3  CS,MNC,EVD
+GD                                                  SC217    CORE       3  ICT,CS,EVD
+AKR                                                 IT205    CORE       3  CS,EVD
+SR,PK                                               IC121    CORE       3  CS,EVD
+SDG                                                 IT205    CORE       3  ICT
+SR                                                  IC121    CORE       3  ICT
+AT2                                                 SC205A   CORE      3  ICT
+MKR                                                 SC205B   CORE       3  CS
+SB2                                                 MC215    CORE       3  MNC
+AP                                                  MC122    CORE      2  MNC
+RM2                                                 MC124    CORE       3  MNC
+MS                                                  MC125    CORE       3  MNC
+PK2                                                 ED121    CORE       3  EVD

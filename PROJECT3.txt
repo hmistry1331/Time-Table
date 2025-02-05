@@ -1,0 +1,14 @@
+SJ                                          HM216    CORE    3  ICT,CS,MNC
+HP                                          CT204    CORE    3  ICT
+PK                                          CT204    CORE    3  CS
+PB                                          IT216    CORE    3  ICT
+SP                                          IT216    CORE    3  CS
+AKM                                         IT227    CORE    3  ICT
+SB                                          IT227    CORE    3  CS
+AT                                          SC223    CORE    3  ICT
+RM                                          SC223    CORE    3  CS
+MS                                          MC211    CORE    3  MNC
+RC                                          MC212    CORE    3  MNC
+AT2                                         MC213    CORE    3  MNC
+SS                                          MC214    CORE    3  MNC
+SK                                          MC216    CORE    3  MNC

@@ -1,0 +1,14 @@
+ST                                  IT314               CORE            3           ICT,CS
+PKS                                 IT304               CORE            3           ICT,CS
+AJ                                  CT303               CORE            3           CS
+DKG                                 CT303               CORE            3           ICT
+MKR                                 CS374               CORE            3           CS
+NKS                                 MC311               CORE            3           MNC    
+MT                                  MC312               CORE            3           MNC
+PK2                                 MC313               CORE            3           MNC
+GAURAVSINGH                         MC314               CORE            3           MNC
+MK2                                 IE402               ICT&TECH        3           ICT,CS
+SS                                  IE411               ICT&TECH        3           ICT,CS 
+VSP                                 IE407               ICT&TECH        3           ICT,CS
+MVJ                                 IE406               ICT&TECH        3           ICT,CS
+RLD                                 IE408               ICT&TECH        3           ICT,CS
