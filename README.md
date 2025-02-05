@@ -1,2 +1,24 @@
-# Time-Table
-Making the colledge Time Table
+# Naruto
+
+# AUTOMATED TIMETABLE GENERATOR
+
+
+## DESCRIPTION
+This project is a PLACEMENT MANAGER SYSTEM designed to manage a student data for interview rounds and selections. it allows users to sort data,search for students,insert new student records,and delete stuent records.
+
+## Group Members
+- Vedant Patel:  202301227
+- Harsh Mistry: 202301198
+- Ruchir Joshi: 202301410
+- Nihar Nadiya: 202301200
+ 
+
+## File Structure
+PROJECT.txt - Contains the information of semester 1.
+PROJECT2.txt - Contains the information of semester 2.
+PROJECT3.txt - Contains the information of semester 3.
+PROJECT4.txt - Contains the information of semester 4.
+PROJECT5.txt - Contains the information of semester 5.
+
+## NOTE
+As our group members don't have proper device,so we have upload our whole code from one of our group member whose id is 202301200@daiict.ac.in.
