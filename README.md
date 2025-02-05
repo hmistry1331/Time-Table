@@ -20,5 +20,4 @@ PROJECT3.txt - Contains the information of semester 3.
 PROJECT4.txt - Contains the information of semester 4.
 PROJECT5.txt - Contains the information of semester 5.
 
-## NOTE
-As our group members don't have proper device,so we have upload our whole code from one of our group member whose id is 202301200@daiict.ac.in.
+
